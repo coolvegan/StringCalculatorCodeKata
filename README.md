@@ -1,7 +1,13 @@
-# StringCalculatorCodeKata
+# String Calculator
 This code is my solution for Roy Osherove Code Kata called: String Calculator
 
-## String Calculator Kata (via [Roy Osherove](http://osherove.com/tdd-kata-1/))
+
+
+
+
+---------
+
+#### String Calculator Kata (via [Roy Osherove](http://osherove.com/tdd-kata-1/))
 
 * Create a simple String calculator with a method int Add(string numbers). The method can take 0, 1 or 2 numbers, and will return their sum (for an empty string it will return 0). For example "" or "1" or "1,2"
 	* Start with the simplest test case of an empty string and move to 1 and two numbers
